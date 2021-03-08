@@ -1,0 +1,44 @@
+body {
+  background-color: #f7f7f7;
+}
+.country {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  /* margin-top: 3px;*/
+}
+.card {
+  background-color: #e6e2dd;
+  width: 200px;
+  height: 250px;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+
+  /*padding-left : 5px;*/
+  border-radius: 0px;
+  /*display: flex;*/
+  /*margin: 7px;*/
+}
+
+#CardDeckAbsolute {
+  text-align: center;
+}
+
+.Button {
+  width: 80px;
+}
+
+.flagImage {
+  width: 200px;
+  height: 100px;
+}
+
+.ButtonDiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.button25 {
+  width: 150px;
+}
